@@ -1,6 +1,0 @@
-﻿  main.c
-c:\users\jn\documents\visual studio 2015\projects\pa1\pa1\main.c(24): warning C4013: 'printf' undefined; assuming extern returning int
-c:\users\jn\documents\visual studio 2015\projects\pa1\pa1\main.c(25): warning C4013: 'scanf' undefined; assuming extern returning int
-c:\users\jn\documents\visual studio 2015\projects\pa1\pa1\main.c(31): error C2065: 'PI': undeclared identifier
-c:\users\jn\documents\visual studio 2015\projects\pa1\pa1\main.c(42): warning C4013: 'pow' undefined; assuming extern returning int
-c:\users\jn\documents\visual studio 2015\projects\pa1\pa1\main.c(53): warning C4013: 'sqrt' undefined; assuming extern returning int
